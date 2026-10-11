@@ -1,6 +1,6 @@
 # Hi there, I'm Chien-Hua (Tony) Wang 👋
 
-> **Data Scientist & Machine Learning Engineer**  
+> **AI & Agentic Engineer**  
 > *"Transforming enterprise-scale chaos into clean data, high-accuracy models, and real business impact."*
 
 📍 World
